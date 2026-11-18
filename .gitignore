@@ -222,3 +222,8 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 CLAUDE.md
+
+# Wheelhouse project data 
+data/
+*.duckdb
+*.duckdb.wal
